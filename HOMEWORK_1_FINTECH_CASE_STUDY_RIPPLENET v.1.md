@@ -1,5 +1,5 @@
 
-# Fintech Global payments game changer 
+# Fintech Global payments - game changer -
 # Ripple
 
 ## Overview and Origin
@@ -58,8 +58,7 @@ Ripple Lab Inc. divided the RippleNet users in two categories:
   1.  network users - Corporates, SMEs, Small Banks and payment providers who only send payments
 2.  network members - Banks, Payment providers as they process payment and source liquidity
 
-Cross-border payments are concentrated in B2B activities. Overall value of global international payments market is around $ 150 trillion,
-including but not limited to payments initiated by treasury for inter-corporate and intra-corporate lending, investment, liquidity flows.
+Cross-border payments are concentrated in B2B activities. Overall value of global international payments market is around $ 150 trillion, including but not limited to payments initiated by treasury for inter-corporate and intra-corporate lending, investment, liquidity flows.
 
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
@@ -78,10 +77,8 @@ Ripple present its company as a game changer in the payment industry as they are
 * Which technologies are they currently using, and how are they implementing them? 
 (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this 
 information.)
-Technology behind the Ripple is  XRP Ledger written in C++. It is decentralized cryptographic ledger powered by a network of peer-to-peer 
-servers. The XRP ledger has been created in 2012 with finite supply of 100B. 80% of those XRPs were donated to the company to develop XRP ledger and its ecosystem. In Ripples idea to build Internet of Value they use XRP to create the world where money will move efficiently
-as information does. The server software  that powers the ledger is called rippled and is available on Ripple github repository under 
-ISC open-source license.
+
+Technology behind the Ripple is  XRP Ledger written in C++. It is decentralized cryptographic ledger powered by a network of peer-to-peer servers. The XRP ledger has been created in 2012 with finite supply of 100B. 80% of those XRPs were donated to the company to develop XRP ledger and its ecosystem. In Ripples idea to build Internet of Value they use XRP to create the world where money will move efficiently as information does. The server software  that powers the ledger is called rippled and is available on Ripple github repository under ISC open-source license.
 
 Key feature of the XRP ledger:
 
@@ -104,6 +101,7 @@ Key feature of the XRP ledger:
 ## Landscape:
 
 * What domain of the financial industry is the company in?
+
 Ripple activities are originally in blockchain and cryptocurrency domain but they are solving payment and billing issue and value transfer. 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
@@ -111,25 +109,27 @@ Cross- border payments are on the cross-road. Development of international trade
 The payment process was slow, inefficient, not transparent and costly, as one never knows the final price of transaction due to lot of 
 intermediaries.
 
-In the last ten years with widely accepted online and mobile payments,  blockchain and cryptocurrencies development user expectations rise
-toward better, faster service, convenience, security and low cost.
+In the last ten years with widely accepted online and mobile payments,  blockchain and cryptocurrencies development user expectations rise toward better, faster service, convenience, security and low cost.
 "Safe and efficient cross-border payments are vital for growth and financial inclusion. The emergence and use of cryptocurrencies across 
-borders signals to central bankers that our current payment systems are too expensive and slow. Action is needed to put better arrangements
- in place," according to Committee on Payments and Market Infrastructures (CPMI) Chairman Benoît Coeuré. CPMI is part of Bank for International
- Settlement, an institution governed by major central banks, including US FED.
+borders signals to central bankers that our current payment systems are too expensive and slow. Action is needed to put better arrangements in place," according to Committee on Payments and Market Infrastructures (CPMI) Chairman Benoît Coeuré. CPMI is part of Bank for International Settlement, an institution governed by major central banks, including US FED.
 As new companies entered the market, especially Ripple, SWIFT as monopoly reacted and developed new service SWIFT GPI (global payment innovation)
 
 * What are the other major companies in this domain?
 
-There are a lot of companies in blockchain domain who tried to revolutionize money transfer and payments worldwide. Among others these are 
-from my point of view the most interesting ones: 
-  *  SWiFT GPI (Global Payment Innovation)  is a global member owned cooperative and the world’s leading provider of secure financial messaging services. 
+There are a lot of companies in blockchain domain who tried to revolutionize money transfer and payments worldwide. Among others these are from my point of view the most interesting ones: 
 
- * Western Union is a worldwide financial services and communications company, present in over 200 countries.
- * GEO protocol is an open-source protocol for cost-efficient, lightweight and scalable value transfer, merging blockchain and traditional finance worlds together.
-* IBMs BWW (Blocskchain World Wire) based on Stellar blockchain. Blockchain World Wire, is the new solution that simultaneously clears and settles cross-border payments.
- * ABRA - peer to peer platform that enable users to transfer digital currencies to other user. Available in SEPA and EU area in more than 70 fiat and crypto currencies.
- * Stellar - blockchain payment platform that is trying to fight poverty by connecting low cost financial institutions and their customers.  Real time settlement (in 2-5 seconds), lower remittance costs, mobile banking and an automatic currency exchange are some of the Stellar network features.
+  *  **SWiFT** GPI (Global Payment Innovation)  is a global member owned cooperative and the world’s leading provider of secure financial messaging services. 
+
+ * **Western Union** is a worldwide financial services and communications company, present in over 200 countries.
+ 
+ * **GEO protocol** is an open-source protocol for cost-efficient, lightweight and scalable value transfer, merging blockchain and traditional finance worlds together.
+ 
+* **IBMs BWW** (Blocskchain World Wire) based on Stellar blockchain. Blockchain World Wire, is the new solution that simultaneously clears and settles cross-border payments.
+
+ * **ABRA** - peer to peer platform that enable users to transfer digital currencies to other user. Available in SEPA and EU area in more than 70 fiat and crypto currencies.
+ 
+ * **Stellar** - blockchain payment platform that is trying to fight poverty by connecting low cost financial institutions and their customers.  Real time settlement (in 2-5 seconds), lower remittance costs, mobile banking and an automatic currency exchange are some of the Stellar network features.
+ 
     Indeed, there are a lot of participants in cross-border payments:
     
     ![](https://github.com/NinoslavVasic/Homework_FinTech_case_study_due122119/blob/master/Crosss_border%20_participants%20_source_%20Swift.jpg)
@@ -139,12 +139,8 @@ from my point of view the most interesting ones:
 
 * What has been the business impact of this company so far?
 
- Ripple business impact on payment industry is already noticed and becoming significant. Over a period of five years Ripple announced that they
- managed to get on board over 300+ financial institutions worldwide to enable faster, lower-cost payments across 40 countries and six continents. 
- Money remittance and settlement in real time is a huge step forward in payment industry. As an example of Ripple success story is Ripple 
- cooperation with payment provider from India TransferGo. TransferGo  announced that the company is using Ripple’s RippleNet payment platform
- to launch a remittance corridor to India. With Ripple’s platform, TransferGo is hoping to speed up its Europe-to-India payment processing 
- from 2 to 3 days to just a few seconds.
+ Ripple business impact on payment industry is already noticed and becoming significant. Over a period of five years Ripple announced that they managed to get on board over 300+ financial institutions worldwide to enable faster, lower-cost payments across 40 countries and six continents. 
+ Money remittance and settlement in real time is a huge step forward in payment industry. As an example of Ripple success story is Ripple cooperation with payment provider from India TransferGo. TransferGo  announced that the company is using Ripple’s RippleNet payment platform to launch a remittance corridor to India. With Ripple’s platform, TransferGo is hoping to speed up its Europe-to-India payment processing from 2 to 3 days to just a few seconds.
 
 Also,  Ripple's market activities make SWIFT to responded with Global Payment Innovation as upgrade of SWIFT protocol. Comparison of two 
 solutions shows the advantages of blockchain technology over swift messaging protocol:
