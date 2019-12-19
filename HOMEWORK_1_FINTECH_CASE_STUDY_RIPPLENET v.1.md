@@ -66,13 +66,13 @@ Ripple Lab Inc. is the only blockchain company today with products worldwide acc
 
 Ripple offers blockchain based solution to solve this problem and has several products in its portfolio: 
 
-***_xRapid_** - transfer cross border remittance
+*   **_xRapid_** - transfer cross border remittance
 
-***_xCurrent_** - enable banks instant end-to-end tracking cross-border payment settlement (global real-time gross settlement (RTGS) system)
+*   **_xCurrent_** - enable banks instant end-to-end tracking cross-border payment settlement (global real-time gross settlement (RTGS) system)
 
-***_xVia_** - standard payment interface
+*   **_xVia_** - standard payment interface
 
-***_ODL (On-demand Liquidity)_** is added to products portfolio as of 2018 with clear goal to leverage their own digital asset XRP. XRP is used as a bridge currency to eliminate the need for pre-funding in cross border payments. Within a year they have a 20+ new clients and made 7x more transactions. 
+*   **_ODL (On-demand Liquidity)_** is added to products portfolio as of 2018 with clear goal to leverage their own digital asset XRP. XRP is used as a bridge currency to eliminate the need for pre-funding in cross border payments. Within a year they have a 20+ new clients and made 7x more transactions. 
 
 Financial institutions in Ripple's network enjoy faster, lower-cost global payments, and by utilization of digital asset XRP have access to source of liquidity, available within seconds. 
 Ripple's digital currency XRP is specially designed payment token, quick, affordable and more scalable than competitors.
