@@ -149,7 +149,7 @@ from my point of view the most interesting ones:
 Also,  Ripple's market activities make SWIFT to responded with Global Payment Innovation as upgrade of SWIFT protocol. Comparison of two 
 solutions shows the advantages of blockchain technology over swift messaging protocol:
 
-slika ripple vs swift
+![](https://github.com/NinoslavVasic/Homework_FinTech_case_study_due122119/blob/master/Ripple-vs-SWIFT.png)
 
 
 
