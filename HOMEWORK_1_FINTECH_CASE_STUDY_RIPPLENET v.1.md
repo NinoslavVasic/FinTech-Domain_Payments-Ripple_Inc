@@ -132,7 +132,7 @@ from my point of view the most interesting ones:
  * Stellar - blockchain payment platform that is trying to fight poverty by connecting low cost financial institutions and their customers.  Real time settlement (in 2-5 seconds), lower remittance costs, mobile banking and an automatic currency exchange are some of the Stellar network features.
     Indeed, there are a lot of participants in cross-border payments:
     
-    ![]()
+    ![](https://github.com/NinoslavVasic/Homework_FinTech_case_study_due122119/blob/master/Crosss_border%20_participants%20_source_%20Swift.jpg)
 
   
     ## Results
