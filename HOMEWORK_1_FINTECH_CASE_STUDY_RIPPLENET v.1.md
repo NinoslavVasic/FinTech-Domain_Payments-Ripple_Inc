@@ -1,6 +1,6 @@
 
-#                                             Ripple  
-#                                     Fintech Global payments
+#   <p align=center>                                          Ripple  
+#      <p align=center>                               Fintech Global payments
                                           - game changer -
 
 ## Overview and Origin
