@@ -1,7 +1,7 @@
 
 #   <p align=center>                                          Ripple  
 #      <p align=center>                               Fintech Global payments
-         <p align=center>                                 - game changer -
+    
 
 ## Overview and Origin
 
@@ -133,7 +133,7 @@ There are a lot of companies in blockchain domain who tried to revolutionize mon
  
     Indeed, there are a lot of participants in cross-border payments:
     
-  <p align=center>  ![](https://github.com/NinoslavVasic/Homework_FinTech_case_study_due122119/blob/master/Crosss_border%20_participants%20_source_%20Swift.jpg)
+    ![](https://github.com/NinoslavVasic/Homework_FinTech_case_study_due122119/blob/master/Crosss_border%20_participants%20_source_%20Swift.jpg)
 
   
     ## Results
@@ -146,7 +146,7 @@ There are a lot of companies in blockchain domain who tried to revolutionize mon
 Also,  Ripple's market activities make SWIFT to responded with Global Payment Innovation as upgrade of SWIFT protocol. Comparison of two 
 solutions shows the advantages of blockchain technology over swift messaging protocol:
 
-<p align=center>![](https://github.com/NinoslavVasic/Homework_FinTech_case_study_due122119/blob/master/Ripple-vs-SWIFT.png)
+![](https://github.com/NinoslavVasic/Homework_FinTech_case_study_due122119/blob/master/Ripple-vs-SWIFT.png)
 
 
 
