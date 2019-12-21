@@ -35,7 +35,7 @@ Ripple is privately funded company. Over the years they had 13 rounds of financi
 
 * What specific financial problem is the company or project trying to solve? 
 
-Inefficient cross-border payment market is the biggest issue of the last decade due to a complex operations and a lot of correspondent banks in the clearing process and lack of transparency in terms of fees. Real time gross settlement in international payments is the biggest FinTech challenge and a lot of companies fight for share of the wallet. 
+Inefficient cross-border payment is an issue of the last decade due to a complexed operations system and a lot of participants in corresponding banking clearing process and lack of transparency in terms of fees. Real time gross settlement in international payments is the biggest FinTech challenge and a lot of companies fight for share of the wallet. 
 RippleNet blockchain based technology offered a solution to solve this issue and execute transactions in real time.
 
 For the last, almost five decades international payments are done via SWIFT network.
@@ -64,7 +64,7 @@ What solution does this company offer that their competitors do not or cannot of
 
 Ripple Lab Inc. is the only blockchain company today with products worldwide accepted. Ripple's payment network include more than 300 customers within more than 40 countries in six continents.
 
-Ripple offers blockchain based solution to solve this problem and has several products in its portfolio: 
+Ripple has solved this problem and have following products in portfolio: 
 
 *   **_xRapid_** - transfer cross border remittance
 
@@ -147,8 +147,8 @@ There are a lot of companies in blockchain domain who tried to revolutionize mon
 
 * What has been the business impact of this company so far?
 
- Ripple business impact on payment industry is already noticed and becoming significant. Over a period of five years Ripple announced that they managed to get on board over 300+ financial institutions worldwide to enable faster, lower-cost payments across 40 countries and six continents. 
- Money remittance and settlement in real time is a huge step forward in payment industry. As an example of Ripple success story is Ripple cooperation with payment provider from India TransferGo. TransferGo  announced that the company is using Ripple’s RippleNet payment platform to launch a remittance corridor to India. With Ripple’s platform, TransferGo is hoping to speed up its Europe-to-India payment processing from 2 to 3 days to just a few seconds.
+ Ripple's business impact on payment industry is already noticed and becoming significant. Over a period of five years Ripple announced that they managed to get on board over 300+ financial institutions worldwide to enable faster, lower-cost payments across 40 countries and six continents. 
+ Money remittance and settlement in real time is a giant step forward in payment industry. As an example of Ripple's success story is their cooperation with payment provider from India TransferGo. TransferGo  announced that the company is using  RippleNet payment platform to launch a remittance corridor to India. With Ripple’s platform, TransferGo expects to speed up payment processing from Europe-to-India by lowering processing time from 2-3 days to just a few seconds.
 
 Also,  Ripple's market activities make SWIFT to responded with Global Payment Innovation as upgrade of SWIFT protocol. Comparison of two 
 solutions shows the advantages of blockchain technology over swift messaging protocol:
@@ -184,7 +184,7 @@ With  upgraded service SWIFT GPI  as of 2017 following service becomes new stand
 
 After the initial success and already significant number of financial institutions in their network, I would recommend to Ripple to  develop blockchain based trade finance solution.
 
-As a technology provider and also liquidity provider Ripple could be play significant role.
+As a technology provider and also liquidity provider Ripple could play significant role.
 
 * Why do you think that offering this product or service would benefit the company?
 
@@ -192,7 +192,7 @@ As Ripple is solving cross-border payments problem, trade finance is logical ste
 
 International trade is developing on very fast pace and according to the study of FCI (Global Representative Body for Factoring and Financing of Open Account Domestic and International Trade Receivables) there is untapped market with huge potential. 
 
-Early entrants, according to my opinion Ripple could be one.  could disrupt this market niche and open new race with SWIFT as currently their protocol is used also for trade finance.
+Early entrants could disrupt this market niche and open new race with SWIFT, as currently, their protocol is used also for trade finance.
 
 
 Resources:
